@@ -1,6 +1,7 @@
 # 3  
 成员16301116 朱永锐  
     16301093 黄镇海  
+  
  这里直接使用了VideoView，url是从网上找到的一个MP4类型的视频  
  private VideoView videoview1;  
     @Override  
